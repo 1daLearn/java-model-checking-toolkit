@@ -33,4 +33,3 @@ This project includes the following libraries:
 - JUnit 5 : Eclipse Public License 2.0 (EPL-2.0)
 - jama : Eclipse Public License (EPL) 1.0
 - JOL-core : Eclipse Public License (EPL) 2.0
-- Java SE 21:Oracle Binary Code License Agreement
